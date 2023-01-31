@@ -7,7 +7,7 @@ const board = document.querySelector('#board')
 
 let time = 0
 let score = 0
-const colors = ['#0ee6dc', '#45d90b', '#e4dc0c', '#ff9300', '#ffffff']
+const colors = ['#0ee6dc', 'pink', '#e4dc0c', '#ff9300', '#ffffff']
 
 startBtn.addEventListener('click', event => {
     event.preventDefault()
